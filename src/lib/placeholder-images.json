@@ -1,3 +1,76 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "album-art-1",
+      "description": "Abstract colorful geometric pattern album art",
+      "imageUrl": "https://images.unsplash.com/photo-1765445665997-6553bd993ff1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhYnN0cmFjdCUyMGFsYnVtfGVufDB8fHx8MTc2NTU2MTI2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract album"
+    },
+    {
+      "id": "album-art-2",
+      "description": "Synthwave sunset over a digital grid album art",
+      "imageUrl": "https://images.unsplash.com/photo-1691488789384-7cf9bd740842?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c3ludGh3YXZlJTIwc3Vuc2V0fGVufDB8fHx8MTc2NTU3NjIzNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "synthwave sunset"
+    },
+    {
+      "id": "album-art-3",
+      "description": "Minimalist black and white sound wave album art",
+      "imageUrl": "https://images.unsplash.com/photo-1686519093104-3140c6dcf284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzb3VuZCUyMHdhdmV8ZW58MHx8fHwxNzY1NDYzNzA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sound wave"
+    },
+    {
+      "id": "album-art-4",
+      "description": "Psychedelic swirling colors album art",
+      "imageUrl": "https://images.unsplash.com/photo-1739287818913-50e4033423c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cHN5Y2hlZGVsaWMlMjBjb2xvcnN8ZW58MHx8fHwxNzY1NTc2MjM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "psychedelic colors"
+    },
+    {
+      "id": "album-art-5",
+      "description": "A calm, serene landscape photo for an album cover",
+      "imageUrl": "https://images.unsplash.com/photo-1705747894563-f47ca490bca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzZXJlbmUlMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzY1NTU2NDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "serene landscape"
+    },
+    {
+      "id": "album-art-6",
+      "description": "Vintage cassette tape on a wooden table album art",
+      "imageUrl": "https://images.unsplash.com/photo-1700224174799-1ac666263d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx2aW50YWdlJTIwY2Fzc2V0dGV8ZW58MHx8fHwxNzY1NTc2MjM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vintage cassette"
+    },
+    {
+      "id": "album-art-7",
+      "description": "Futuristic cityscape at night album art",
+      "imageUrl": "https://images.unsplash.com/photo-1610114435855-cec05b128dfc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmdXR1cmlzdGljJTIwY2l0eXNjYXBlfGVufDB8fHx8MTc2NTU1NTIzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "futuristic cityscape"
+    },
+    {
+      "id": "album-art-8",
+      "description": "Hand-drawn doodle-style characters album art",
+      "imageUrl": "https://images.unsplash.com/photo-1705770581857-8000ec4038f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkb29kbGUlMjBjaGFyYWN0ZXJzfGVufDB8fHx8MTc2NTU3NjIzNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doodle characters"
+    },
+    {
+      "id": "album-art-9",
+      "description": "Close-up of a vinyl record playing",
+      "imageUrl": "https://images.unsplash.com/photo-1601148071764-8c3f50e9ab20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx2aW55bCUyMHJlY29yZHxlbnwwfHx8fDE3NjU1NzM5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vinyl record"
+    },
+    {
+      "id": "album-art-10",
+      "description": "A galaxy with stars and nebulae album art",
+      "imageUrl": "https://images.unsplash.com/photo-1709408635158-8d735f0395c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxnYWxheHklMjBuZWJ1bGF8ZW58MHx8fHwxNzY1NTQ5MTY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "galaxy nebula"
+    },
+    {
+      "id": "album-art-11",
+      "description": "Overhead shot of a piano keyboard",
+      "imageUrl": "https://images.unsplash.com/photo-1589666606904-b01a2b7f522a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwaWFubyUyMGtleWJvYXJkfGVufDB8fHx8MTc2NTUwNDAzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "piano keyboard"
+    },
+    {
+      "id": "album-art-12",
+      "description": "Graffiti on a brick wall album art",
+      "imageUrl": "https://images.unsplash.com/photo-1487452066049-a710f7296400?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxncmFmZml0aSUyMHdhbGx8ZW58MHx8fHwxNzY1NTc2MjM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "graffiti wall"
+    }
+  ]
 }
